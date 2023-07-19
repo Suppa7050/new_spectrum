@@ -1,0 +1,21 @@
+.content a{
+    display: inline-block;
+    width: 40%;
+    height: 280px;
+    overflow: hidden;
+    padding: 6px;
+    margin: 15px;
+    font-size: 20px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgba(193, 196, 201, 0.5);
+    text-decoration: none;
+    color: black;
+}
+body {
+    /* background-image: url("https://i.ibb.co/R639wjD/480589.jpg"); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* background-color: #cccccc; */
+   }

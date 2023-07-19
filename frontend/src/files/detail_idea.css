@@ -1,0 +1,31 @@
+
+.notification {
+    background-color: #555;
+    color: white;
+    text-decoration: none;
+    padding: 15px 150px;
+    position: relative;
+    display: inline-block;
+    border-radius: 2px;
+}
+.notification:hover {
+background: blue;
+
+}
+
+.notification .badge {
+position: absolute;
+top: -10px;
+right: -10px;
+padding: 5px 10px;
+border-radius: 50%;
+background: red;
+color: white;
+}
+body {
+    background-color:  rgba(134, 187, 195,0.8);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* background-color: #cccccc; */
+   }
